@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darsh Bhoraniya</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter,Python and Algorithms Mastering DSA**
+- 🌱 I’m currently learning **NextJS Python
+- Algorithms And Mastering DSA**
 
 - 🔭 I’m currently working on Asp.net Webapi And MVC (ASP.NET 6)
 
