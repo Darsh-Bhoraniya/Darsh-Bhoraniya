@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently learning **Flutter,Python and Algorithms Mastering DSA**
 
-- 💬 Ask me about **I’m looking to collaborate on cool project**
+- 🔭 I’m currently working on Asp.net Webapi And MVC (ASP.NET 6)
+
+- 💬 Ask me about ** MEARN Stack And Asp.Net Core MVC also Asp.Net Web API
+
+- **I’m looking to collaborate on cool project**
 
 
 ## 🌐 Socials:
