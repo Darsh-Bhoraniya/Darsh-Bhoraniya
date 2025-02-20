@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Darsh Bhoraniya</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJs NodeJS
-- Algorithms And Mastering DSA**
 
-- 🔭 I’m currently working on Asp.net Webapi And MVC (ASP.NET 6)
-
-- 💬 Ask me about ** MEARN Stack And Asp.Net Core MVC also Asp.Net Web API
-
-- **I’m looking to collaborate on cool project**
+- 🌱 I’m currently learning **ReactJS, NodeJS, Algorithms, and mastering DSA**  
+- 🔭 I’m currently working on **MERN Stack and cloud technologies like AWS**  
+- 💬 Ask me about **MERN Stack, Node.js, AWS, TypeScript, React.js, and JavaScript**  
+- 🤝 I’m looking to collaborate on **cool projects**  
+- 🚀 I’m dynamically adaptable to different programming languages  
 
 
 ## 🌐 Socials:
