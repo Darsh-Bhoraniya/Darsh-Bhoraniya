@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Darsh+Bhoraniya;Full+Stack+Developer+from+India;MERN+Stack+%7C+AWS+%7C&center=true&width=500&height=45&color=58A6FF&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Darsh+Bhoraniya;Full+Stack+Developer+from+India;MERN+Stack+%7C+AWS+%7C+React+%7C+Node&center=true&width=500&height=45&color=58A6FF&size=22">
 </p>
 
 <p align="center">
