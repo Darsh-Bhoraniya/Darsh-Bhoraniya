@@ -1,49 +1,57 @@
-<h1 align="center">👋 Hi, I'm Vasu Bhensdadia</h1>
-<h3 align="center">🚀 Frontend Developer crafting modern web applications with performance and accessibility in mind</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Vasu+Bhensdadia;Frontend+Developer;React+%7C+Next.js+%7C+Firebase+%7C+MERN+Stack&center=true&width=500&height=45&color=58A6FF&size=22">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<h3 align="center">🚀 Crafting performant and accessible web experiences</h3>
 
 ---
 
 - 🔭 I’m currently working on: **MERN Stack**
-- 🌱 Currently learning: **Cloud Technologies, Vibe Coding & New Frameworks**
-- 💬 Ask me about: **React.js, Next.js, React Native, JavaScript, TypeScript, Firebase**
-- 📫 Reach me at: **vasubhensdadia1@gmail.com**
-- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/15ZFinQyFNP4tKcmgBa8cvmsVl055OyII/view?usp=sharing)
+- 🌱 Learning: **Cloud Technologies, Vibe Coding & Modern Frameworks**
+- 💬 Ask me about: **React.js, Next.js, React Native, TypeScript, Firebase**
+- 📫 Reach me: **vasubhensdadia1@gmail.com**
+- 📄 [Check out my resume](https://drive.google.com/file/d/15ZFinQyFNP4tKcmgBa8cvmsVl055OyII/view?usp=sharing)
 - ⚡ Fun fact: **I debug for fun... and sometimes for hours 😄**
 
 ---
 
 ### 🌐 Connect with Me:
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/vasu-bhensdadia-4b7b15220" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:vasubhensdadia1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,java,python,html,css,sass,tailwind,bootstrap,docker,firebase,git,github,figma,postman,linux,bash,androidstudio,aws,mysql,postgres,webpack,babel" />
+### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,js,ts,nodejs,express,mongodb,firebase,git,github,docker,figma,postman,html,css,sass,tailwind,aws,bash,linux,python,java" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasu0410&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vasu0410&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasu0410&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu0410&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu0410&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-### 💡 Quote of the Day
-> *"First, solve the problem. Then, write the code." – John Johnson*
+### 🧠 Quote of the Day
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
 ---
 
