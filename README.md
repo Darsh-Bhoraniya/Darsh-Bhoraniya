@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Darsh+Bhoraniya;Full+Stack+Developer+from+India;MERN+Stack+%7C+AWS+%7C+DSA+Lover&center=true&width=500&height=45&color=58A6FF&size=22">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
