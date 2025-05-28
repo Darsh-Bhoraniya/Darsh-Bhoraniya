@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Darsh+Bhoraniya;Full+Stack+Developer+from+India;MERN+Stack+%7C+AWS+%7C+DSA+Lover&center=true&width=500&height=45&color=58A6FF&size=22">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
@@ -19,7 +19,7 @@
 ---
 
 ## 🌐 Socials:
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/darsh_Bhoraniya/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/darsh-bhoraniya-09263b241/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -34,12 +34,12 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Darsh-Bhoraniya&theme=tokyonight&show_icons=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darsh-Bhoraniya&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darsh-Bhoraniya&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
